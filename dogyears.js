@@ -1,5 +1,5 @@
 //This is a reassignable variable (myAge) set to (19).
-let myAge = 19;
+let myAge = 21;
 
 //This is a reassignable variable (earlyYears) set to different values.
 let earlyYears = 2;
@@ -20,6 +20,9 @@ const myAgeInDogYears = earlyYears + laterYears;
 let myName = 
 'Ali'.toLowerCase();
 
+//This is the final output converting human years to dog years. 
 console.log(`My name is ${myName}. I am ${myAge} years old in human years which is ${myAgeInDogYears} years old in dog years.`);
+
+
 
 
